@@ -313,7 +313,7 @@ export default {
   'admin.nav.siteAppearance': 'Site appearance',
   'admin.nav.versionUpdate': 'Version updates',
   'admin.sidebar.openDashboard': 'Open dashboard',
-  'admin.sidebar.brand': 'Edgechat Admin',
+  'admin.sidebar.brand': 'CHAT Admin',
   'admin.sidebar.collapseNavigation': 'Collapse admin navigation',
   'admin.sidebar.expandNavigation': 'Expand admin navigation',
   'admin.sidebar.expandGroup': 'Expand {name} submenu',
