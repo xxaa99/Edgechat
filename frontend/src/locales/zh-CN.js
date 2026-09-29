@@ -313,7 +313,7 @@ export default {
   'admin.nav.siteAppearance': '站点外观',
   'admin.nav.versionUpdate': '版本更新',
   'admin.sidebar.openDashboard': '打开仪表盘',
-  'admin.sidebar.brand': 'Edgechat 管理后台',
+  'admin.sidebar.brand': 'CHAT 管理后台',
   'admin.sidebar.collapseNavigation': '收起后台导航',
   'admin.sidebar.expandNavigation': '展开后台导航',
   'admin.sidebar.expandGroup': '展开{name}子菜单',
