@@ -1,7 +1,7 @@
 {
-  "name": "chat",
-  "short_name": "chat",
-  "description": "chat 团队沟通与协作空间",
+  "name": "CHAT",
+  "short_name": "CHAT",
+  "description": "CHAT 团队沟通与协作空间",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
