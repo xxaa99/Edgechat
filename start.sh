@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "🚀 启动 Edgechat..."
+echo "🚀 启动 CHAT..."
 echo ""
 
 # 检查依赖
@@ -18,7 +18,7 @@ FRONTEND_PID=$!
 sleep 5
 
 echo ""
-echo "✅ Edgechat 已启动！"
+echo "✅ CHAT 已启动！"
 echo ""
 echo "📱 访问地址："
 echo "   本地: http://localhost:5173"
