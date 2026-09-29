@@ -1,6 +1,6 @@
 {
   "appId": "com.aozorae.edgechat.web",
-  "appName": "EdgeChat Web",
+  "appName": "CHAT Web",
   "webDir": "../frontend/dist",
   "android": {
     "allowMixedContent": false,
