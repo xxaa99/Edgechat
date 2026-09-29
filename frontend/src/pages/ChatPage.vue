@@ -848,7 +848,7 @@ onBeforeUnmount(() => {
         <div class="empty-content">
           <div class="empty-brand">
             <MessageCircle :size="36" :stroke-width="1.5" aria-hidden="true" />
-            <span class="empty-title">EdgeChat</span>
+            <span class="empty-title">CHAT</span>
           </div>
           <p>{{ t('chat.noConversationSelected') }}</p>
           <button type="button" class="empty-start" @click="openAddConversation">
